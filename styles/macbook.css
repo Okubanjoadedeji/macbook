@@ -1,0 +1,54 @@
+p{
+  margin-top: 4px;
+  margin-bottom: 6px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.new-style {
+ font-family: Arial;
+ text-align: center;
+ color: orangered;
+ margin-bottom: 10px;
+}
+
+.macbook-pro {
+ font-family: Arial;
+ text-align: center;
+ font-size: 20px;
+ font-weight: 600;
+ margin-top: 4px;
+}
+
+.quote-pros {
+  font-family: Arial;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.from {
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.buy-button {
+  background-color: #065fd4;
+  color: white;
+  border: none;
+  height: 28px;
+  width: 50px;
+  border-radius: 28px;
+  transition: opacity 0.5s;
+}
+
+.buy-button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+  display: block;
+  margin: auto; 
+}
+
+.buy-button:active {
+  opacity: 0.1;
+}
